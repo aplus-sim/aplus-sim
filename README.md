@@ -5,6 +5,7 @@
 ### AI-Powered Pharmacometrics Modeling & Simulation for Prediction Tools and Quantitative Solutions
 
 **From Data to Prediction. From Models to Decisions.**
+**For Patients.**
 
 [Website](https://www.aplus-sim.com) · [LinkedIn](https://www.linkedin.com/company/aplus-simulation)
 

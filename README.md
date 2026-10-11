@@ -85,15 +85,18 @@ GitHub: https://github.com/aplus-sim
 
 Website: https://www.aplus-sim.com
 
-LinkedIn: https://www.linkedin.com/company/aplus-simulation
+LinkedIn: https://www.linkedin.com/company/aplus-simulation/
+
+Contact: support@aplus-sim.com
 
 ---
 
 <div align="center">
 
-**APLUS Simulation**
+<h3>APLUS Simulation</h3>
 
-<sub>© 2026 APLUS Simulation. All Rights Reserved.</sub>
+<p>© 2026 APLUS Simulation. All Rights Reserved.</p>
+<sub>This software is proprietary. Its use is governed by the terms in LICENSE.</sub>
 
 </div>
 

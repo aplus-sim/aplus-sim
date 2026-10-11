@@ -17,7 +17,8 @@
 APLUS Simulation is a Korea Seoul-based pioneer group in AI-powered pharmacometrics and model-informed drug development, bridging advanced Clinical Pharmacology with with artificial intelligence. 
 
 Our expertise spans quantitative system models, PK/PD modeling, translational simulation, and AI/ML-driven prediction, which we actively apply to real-world drug development projects.
-<br>
+
+---
 
 ## 💻Our Softwares
 

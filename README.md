@@ -1,70 +1,53 @@
-
 <div align="center">
 
-<img src="./images/banner.png" width="100%" alt="APLUS Simulation">
+# APLUS Simulation
+
+### AI-Powered Pharmacometrics Modeling & Simulation for Prediction Tools and Quantitative Solutions
+
+**From Data to Prediction. From Models to Decisions.**
+
+[Website](https://www.aplus-sim.com) · [LinkedIn](https://www.linkedin.com/company/aplus-simulation)
 
 </div>
 
 ---
 
-## About APLUS
+## About Us
 
-**Clinical Pharmacology · Pharmacometrics · AI/ML · Translational Modeling**
+APLUS Simulation develops AI-powered pharmacometric modeling and simulation solutions for quantitative drug development.
 
-APLUS Simulation develops AI-powered pharmacometric modeling, simulation, and prediction tools for drug development.
+Our expertise spans clinical pharmacology, PK/PD modeling, translational simulation, and AI/ML-driven prediction.
 
-We integrate clinical pharmacology, mechanistic modeling, translational simulation, and AI/ML to support data-driven decisions.
+## Our Softwares
 
----
 
-## Our Software
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### KINENTRIX® Biologics
-
-**AI-Powered Human PK Prediction**
+### KINENTRIX® Biologics (0.90)
+**AI-Powered Human PK Prediction Platform for Antibody Therapeutics**
 
 <img src="./images/KNNTX_Biologics_0.90_1.png" width="100%" alt="KINENTRIX Biologics">
 
-AI-enhanced human PK prediction for antibody therapeutics.
-
 **Key Capabilities**
 
-- Human CL and V prediction
-- AI-enhanced cross-species scaling
-- Machine learning-based prediction
-- Human PK profile simulation
-- PopPK reference comparison
+- Human CL and V prediction via Machine learning-based prediction
+- AI-enhanced prediction performance for cross-species scaling
+- Human PK profile simulation based on best schema & method 
+- Population PK reference comparison
 
-[**Explore Biologics →**](https://github.com/aplus-sim/Kinentrix_Biologics_0.90)
+[Explore KINENTRIX Biologics](https://github.com/aplus-sim/Kinentrix_Biologics_0.90)
 
-</td>
-<td width="50%" valign="top">
 
-### KINENTRIX Simulator
-
+### KINENTRIX® Simulator (0.90)
 **Human PK Simulation Platform**
 
 <img src="./images/KNNTX_Simulator_0.90.png" width="100%" alt="KINENTRIX Simulator">
 
-Model-based human PK simulation and exposure visualization.
-
 **Key Capabilities**
 
-- Human PK profile simulation
-- IV and SC dosing regimens
-- Concentration-time visualization
-- AUC, Cmax, and Ctrough prediction
-- Population prediction intervals
+- PK profile simulation for approved antibody drugs
+- Virtual Population exposure prediction and visualization
+- Extraction of individual parameters and time-series population profiles data
 
-[**Explore Simulator →**](https://github.com/aplus-sim/Kinentrix_Simulator_0.90)
-
-</td>
-</tr>
-</table>
+[Explore KINENTRIX Simulator](https://github.com/aplus-sim/Kinentrix_Simulator_0.90)
 
 ---
 
@@ -93,21 +76,23 @@ Model-based human PK simulation and exposure visualization.
 
 ## Connect With Us
 
-[GitHub](https://github.com/aplus-sim) ·
-[Website](https://www.aplus-sim.com) ·
-[LinkedIn](https://www.linkedin.com/company/aplus-sim)
+GitHub: https://github.com/aplus-sim
+
+Website: https://www.aplus-sim.com
+
+LinkedIn: https://www.linkedin.com/company/aplus-simulation
 
 ---
 
 <div align="center">
 
-**APLUS Simulation | AI-Powered Simulation**
+**APLUS Simulation**
 
 <sub>© 2026 APLUS Simulation. All Rights Reserved.</sub>
 
 </div>
 
-
+<!--© 2026 APLUS Simulation. All rights reserved-->
 
 <!--
 **aplus-sim/aplus-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

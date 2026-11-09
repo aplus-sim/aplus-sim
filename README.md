@@ -23,7 +23,7 @@ Our expertise spans quantitative system models, PK/PD modeling, translational si
 
 ## 💻Our Softwares
 
-KINENTRIX Biologics and KINENTRIX Simulator are currently undergoing updates and improvements. Updated versions will be uploaded soon. Thank you for your patience!
+### KINENTRIX Biologics and KINENTRIX Simulator are currently undergoing updates and improvements. Updated versions will be uploaded soon. Thank you for your patience!
 
 
 ### 🧬KINENTRIX® Biologics (0.90)
